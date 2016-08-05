@@ -21,8 +21,8 @@ namespace CommonLibrary.Tests
             //Act : 呼叫目標物件的方法
 
             //Assert : 驗證是否符合預期
-            Assert.IsNotNull(actual, "Jerry Debug :" + actual);
-            //Assert.AreEqual("OK", actual);
+            //Assert.IsNotNull(actual, "Jerry Debug :" + actual);
+            Assert.AreEqual("OK", actual);
         }
 
         [TestMethod()]
