@@ -17,7 +17,7 @@ namespace CommonLibrary.Tests
             /**3A原則*/
             //Arrange : 初始化目標物件、相依物件、方法參數、預期結果，或是預期與相依物件的互動方式
             //var actual = IniHelper.GetConfigSetting("inipath");
-            var actual = "";
+            var actual = "OK";
             //Act : 呼叫目標物件的方法
 
             //Assert : 驗證是否符合預期
