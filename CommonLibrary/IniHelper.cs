@@ -33,7 +33,7 @@ namespace CommonLibrary
             return GetConfigSetting(_DefaultIniPathKey);
         }
         /// <summary>
-        /// 取得初始設定檔路徑
+        /// 1111取得初始設定檔路徑
         /// </summary>
         /// <param name="appKey">自訂key</param>
         /// <returns></returns>
